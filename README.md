@@ -28,9 +28,9 @@ On our end, we’ll commit to getting back to you in 2-3 business days.
 
 5. Many Nutshell components communicate with web servers for their data. Here you’ll interact with a REST API that returns information about people. This API is paginated, so you’ll need to make multiple requests to gather all people.
 The URL endpoints look like:
-    - https://join.nutshell.com/people/1/
-    - https://join.nutshell.com/people/2/
-    - https://join.nutshell.com/people/3/
+    - http://join.nutshell.com/people/1/
+    - http://join.nutshell.com/people/2/
+    - http://join.nutshell.com/people/3/
     - (... etc.)
 When you go beyond the number of actual pages, you’ll receive an empty array.
 Each page looks like this:
