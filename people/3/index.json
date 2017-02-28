@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Ian Roosevelt",
+        "email": "ianroosevelt@example.com",
+        "signup_date": "2000-10-14"
+    },
+    {
+        "name": "Asya Taft",
+        "email": null,
+        "signup_date": "2011-4-13"
+    },
+    {
+        "name": "Andrew Reagan",
+        "email": null,
+        "signup_date": "2004-1-28"
+    },
+    {
+        "name": "Christina Reagan",
+        "email": null,
+        "signup_date": "2013-5-7"
+    },
+    {
+        "name": "Elaine Adams",
+        "email": "elaineadams@example.com",
+        "signup_date": "2005-10-2"
+    }
+]
