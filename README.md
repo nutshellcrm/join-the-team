@@ -6,7 +6,7 @@ For software engineering candidates, we kick off the interview process with a fe
 
 We recommend writing answers in whatever language you’re most comfortable in. Like our own code, we expect testing instructions: whether it’s an automated test framework, or simple manual steps.
 
-You might find gist.github.com a convenient way to send us your work. **You can email us at [jobs@nutshell.com](mailto:jobs@nutshell.com) to get things started.**
+You might find [gist.github.com](https://gist.github.com/) a convenient way to send us your work. **You can email us at [jobs@nutshell.com](mailto:jobs@nutshell.com) to get things started.**
 
 To help set expectations, we believe this should take under 3 hours to complete. We understand that you have other responsibilities, so if you think you’ll need more than 3-4 days, just let us know when you expect to send a reply.
 
