@@ -12,6 +12,8 @@ To help set expectations, we believe this should take under 3 hours to complete.
 
 On our end, we’ll commit to getting back to you in 2-3 business days.
 
+---
+
 1. What is your proudest achievement? It can be from work, a side project, or something unrelated to tech. We're interested in knowing about what you think is noteworthy and motivating. A paragraph or two is fine!
 2. Tell us about an interesting technical book, article, or presentation that you saw recently. Tell us why, give us a recommendation!
 3. From what you’ve seen on our web site, write a paragraph about who Nutshell’s customers are, and what problems they’re looking to solve.
