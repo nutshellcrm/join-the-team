@@ -5,8 +5,6 @@ For product design candidates, we kick off the interview process with a few ques
 1. We’d like to see the first draft of how you’d solve for a complex UI.
 2. Even more, it’ll give us a chance to see how we all interact and discuss work as a group when it comes to design process.
 
-We don’t want this to be a piece of free work done for us, but we’ve always felt better about ‘take-home projects’ as a better tool for interviewing than an on-the-spot whiteboard project. (We didn’t invent this, though — [we copped the idea from Intercom](https://blog.intercom.com/how-we-hire-engineers-part-1/)!)
-
 Here’s a quick spec for an interface that we already have deployed on web, iOS, and Android. The ‘deliverable’ here is a collection of wireframes that outline how the user accomplishes a task. To set expectations, we think this should take under 3-4 hours.
 
 ## Feature: Nutshell Mobile Activity Scheduling
