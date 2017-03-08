@@ -18,7 +18,7 @@ To start, **we ask all candidates** to answer the following questions:
 2. Tell us about an interesting technical book, article, or presentation that you saw recently. Tell us why, give us a recommendation!
 3. From what you’ve seen on our web site, write a paragraph about who Nutshell’s customers are, and what problems they’re looking to solve.
 
-After answering the above questions, we have different projects for software designers & developers:
+Along with the above questions, we have different projects for software designers & developers:
 
 - [Take home problems for software **designers**](designer-questions.md)
 - [Take home problems for software **developers**](developer-questions.md)
