@@ -1,4 +1,4 @@
-# Nutshell Developer Take Home Project
+# Nutshell Developer Take Home Project (pre-2020)
 
 We recommend writing answers in whatever language you’re most comfortable in. Like our own code, we expect testing instructions: whether it’s an automated test framework, or simple manual steps.
 
