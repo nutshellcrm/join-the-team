@@ -17,8 +17,7 @@ To start, **we ask all candidates** to answer the following questions. A paragra
 5. Describe something you do _at_ work that's furthest from your official description.
 6. Tell us about the last time you had to reconsider a closely-held opinion. What caused your change in thinking?
 
-Along with the above questions, we have different projects for software designers & developers:
+Along with the above questions, we have more technical questions for software designers & developers:
 
-- [Take home problems for **front-end engineers (2021)**](frontend-engineer-questions.md)
+- [Take home questions for **back-end engineers (2021)**](backend-questions-2021.md)
 - [Take home problems for software **designers**](designer-questions.md)
-- [Take home problems for software **developers**](developer-questions.md)
