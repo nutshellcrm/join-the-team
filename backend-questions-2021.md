@@ -2,7 +2,7 @@
 
 Below is a list of 8 questions that we ask all backend candidates to answer. These aren’t meant to be trick questions, and some are purposefully a bit opened ended to help orient a discussion during subsequent interviews.
 
-To help set expectations, we believe this should only under 2-3 hours to complete. We understand that you have other responsibilities, so if you think you’ll need more than 3-4 days, just let us know when you expect to send a reply.
+To help set expectations, we believe this should take under 2-3 hours to complete. We understand that you have other responsibilities, so if you think you’ll need more than 3-4 days, just let us know when you expect to send a reply.
 
 You might find [gist.github.com](https://gist.github.com/) a convenient way to send us your work.
 
