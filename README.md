@@ -8,16 +8,7 @@ For all candidates, we kick off our hiring process with a few questions via emai
 
 ---
 
-To start, **we ask all candidates** to answer the following questions. A paragraph or two each is probably about right:
+We then have a few written answers and more technical questions for software designers & developers:
 
-1. What's your proudest achievement? It can be from work, a side project, or something unrelated to tech. We're interested in knowing about what you think is noteworthy and motivating.
-2. Tell us about an interesting work-related book, article, or presentation that you saw recently. Tell us why, give us a recommendation, and sell us on it!
-3. From what you’ve seen on our web site, write about who Nutshell’s customers are, and what problems they’re looking to solve.
-4. Describe something that you do outside of work that's _least_ similar to what you do at work.
-5. Describe something you do _at_ work that's furthest from your official description.
-6. Tell us about the last time you had to reconsider a closely-held opinion. What caused your change in thinking?
-
-Along with the above questions, we have more technical questions for software designers & developers:
-
-- [Take home questions for **back-end engineers (2021)**](backend-questions-2021.md)
-- [Take home problems for software **designers**](designer-questions.md)
+- [Take home for **software engineer interns (2021)**](internship-take-home.md)
+- [Take home for **back-end engineers (2021)**](backend-questions-2021.md)

@@ -1,6 +1,15 @@
 # Nutshell Backend Interview Questions (2021)
 
-Below is a list of 8 questions that we ask all backend candidates to answer. These aren’t meant to be trick questions, and some are purposefully a bit opened ended to help orient a discussion during subsequent interviews.
+To start, **we ask all candidates** to answer the following questions. A paragraph or two each is probably about right:
+
+1. What's your proudest achievement? It can be from work, a side project, or something unrelated to tech. We're interested in knowing about what you think is noteworthy and motivating.
+2. Tell us about an interesting work-related book, article, or presentation that you saw recently. Tell us why, give us a recommendation, and sell us on it!
+3. From what you’ve seen on our web site, write about who Nutshell’s customers are, and what problems they’re looking to solve.
+4. Describe something that you do outside of work that's _least_ similar to what you do at work.
+5. Describe something you do _at_ work that's furthest from your official description.
+6. Tell us about the last time you had to reconsider a closely-held opinion. What caused your change in thinking?
+
+To finish, below is a list of 8 questions that we ask all backend candidates to answer. These aren’t meant to be trick questions, and some are purposefully a bit opened ended to help orient a discussion during subsequent interviews.
 
 To help set expectations, we believe this should take under 2-3 hours to complete. We understand that you have other responsibilities, so if you think you’ll need more than 3-4 days, just let us know when you expect to send a reply.
 
