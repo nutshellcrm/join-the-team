@@ -8,7 +8,7 @@ For all candidates, we kick off our hiring process with a few questions via emai
 
 ---
 
-We then have a few written answers and more technical questions for software designers & developers:
+We have a few written answers and technical questions for software designers & developers:
 
 - [Take home for **software engineer interns (2021)**](internship-take-home.md)
 - [Take home for **back-end engineers (2021)**](backend-questions-2021.md)
