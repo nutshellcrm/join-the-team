@@ -1,6 +1,6 @@
 # Nutshell Front-end Engineer Take Home Project (2022)
 
-## Tic Tac Toe App
+## Connect 4 App
 Hello and welcome to Nutshell’s Front-end Engineer take-home project! The goal of this exercise is to **recreate the game Connect 4** in the browser.
 
 To help set expectations, we believe this should take under 3-4 hours to complete. We understand that you have other responsibilities, so if you think you’ll need more than 3-4 days, just let us know when you expect to send a reply.
