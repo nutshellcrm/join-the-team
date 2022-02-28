@@ -1,9 +1,22 @@
 # Nutshell Front-end Engineer Take Home Project (2022)
+Hello and welcome to Nutshell’s Front-end Engineer take-home project! Our take home is split into two parts. To help set expectations, we believe this should take under 3-4 hours to complete. We understand that you have other responsibilities, so if you think you’ll need more time to get started, just let us know when you expect to send a reply.
 
-## Connect 4 App
-Hello and welcome to Nutshell’s Front-end Engineer take-home project! The goal of this exercise is to **recreate the game Connect 4** in the browser.
+## Part 1: Written questions
 
-To help set expectations, we believe this should take under 3-4 hours to complete. We understand that you have other responsibilities, so if you think you’ll need more than 3-4 days, just let us know when you expect to send a reply.
+To start, we ask all candidates to answer the following questions. A paragraph or two each is probably about right:
+
+1. What's your proudest achievement? It can be from work, a side project, or something unrelated to tech. We're interested in knowing about what you think is noteworthy and motivating.
+2. Tell us about an interesting work-related book, article, or presentation that you saw recently. Tell us why, give us a recommendation, and sell us on it!
+3. From what you’ve seen on our web site, write about who Nutshell’s customers are, and what problems they’re looking to solve.
+4. Describe something that you do outside of work that's least similar to what you do at work.
+5. Describe something you do at work that's furthest from your official description.
+6. Tell us about the last time you had to reconsider a closely-held opinion. What caused your change in thinking?
+
+
+
+## Part 2: Connect 4 App
+
+The goal of this exercise is to **recreate the game <a target='_blank' href="https://www.fgbradleys.com/rules/Connect%20Four.pdf">Connect 4</a>** in the browser.
 
 ### Features to include
 
