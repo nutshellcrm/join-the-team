@@ -16,7 +16,7 @@ To start, we ask all candidates to answer the following questions. A paragraph o
 
 ## Part 2: Connect 4 App
 
-The goal of this exercise is to **recreate the game <a target='_blank' href="https://www.fgbradleys.com/rules/Connect%20Four.pdf">Connect 4</a>** in the browser.
+The goal of this exercise is to **recreate the game <a target='_blank' rel='noreferrer' href="https://www.fgbradleys.com/rules/Connect%20Four.pdf">Connect 4</a>** in the browser.
 
 ### Features to include
 
