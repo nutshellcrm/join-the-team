@@ -1,4 +1,4 @@
-# Nutshell Software Engineer Take Home Questions
+# Nutshell Software Engineering Internship Take Home Questions
 
 To start, **we ask all candidates** to answer the following questions. A paragraph or two each is probably about right:
 
